@@ -1,0 +1,9 @@
+Git hub intitialization ==> git init 
+If exist the file or work parallel in project then pull before work ==> git pull -----project link-----
+Can check the changes ==> git status
+Git Add the Files ==> git add .
+Commit the Changes in Master ==> git commit -m "changes description"
+Fetch and push Command ==> git remote -v
+Last command for push ==> git push -u origin master
+Add the file in origin file ==> git remote add origin -----project link-----
+
